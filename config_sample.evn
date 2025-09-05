@@ -12,7 +12,7 @@ DATABASE_URL = "mongodb+srv://Attention69:I8d6G5xAEYp9i1pb@cluster0.xta292t.mong
 DOWNLOAD_DIR = "/usr/src/app/downloads/"    # Require restart after changing it while bot running
 CMD_SUFFIX = ""                             # Require restart after changing it while bot running
 AUTHORIZED_CHATS = "-4883335990"                       # Require restart after changing it while bot running
-SUDO_USERS = "7234316836"                             # Require restart after changing it while bot running
+SUDO_USERS = "7371701519"                             # Require restart after changing it while bot running
 BLACKLIST_USERS = ""                        # Require restart after changing it while bot running
 STATUS_LIMIT = "4"
 DEFAULT_UPLOAD = "gd"
@@ -26,7 +26,7 @@ FSUB_IDS = ""
 BOT_PM = ""
 
 # GDrive Tools
-GDRIVE_ID = ""
+GDRIVE_ID = "1R6zFiJmvXqIraFiCPeCS5VtXrPDjKCOs"
 USER_TD_MODE = ""
 USER_TD_SA = ""
 INDEX_URL = ""
